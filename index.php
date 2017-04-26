@@ -32,7 +32,7 @@
 </head>
 
 <body id="page-top" class="index">
-
+     <h1 class="title">Test title text</h1>
     <!-- Navigation -->
     <nav id="mainNav" class="navbar navbar-default navbar-fixed-top navbar-custom">
         <div class="container">
